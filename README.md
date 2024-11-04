@@ -67,4 +67,13 @@ https://github.com/WhatsAppGA/Whatsapp-Gateway/wiki
 2. Payment gateway page management (QRIS, BCA virtual account, PayPal, Stripe).
 3. Added user account management.
 4. (ticket) obstacle reporting service for users and managers.
-.. And many more. 
+.. And many more.
+
+----------
+
+## Credits
+
+All credits to the [MPWA](https://m-pedia.my.id) and the original creators of these files.</br>
+All credits to the [M-Pedia](https://m-pedia.my.id) for their great platform.
+
+Do follow the individual licenses of these files as supplied by the authors.
