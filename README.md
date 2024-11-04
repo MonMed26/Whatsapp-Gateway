@@ -77,3 +77,5 @@ All credits to the [MPWA](https://m-pedia.my.id) and the original creators of th
 All credits to the [M-Pedia](https://m-pedia.my.id) for their great platform.
 
 Do follow the individual licenses of these files as supplied by the authors.
+
+These updates have been implemented to maintain transparency and uphold the highest standards of integrity and respect for the work of all contributors. We appreciate the collaborative efforts and value each contribution represented.
